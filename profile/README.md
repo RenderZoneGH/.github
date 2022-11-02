@@ -11,7 +11,7 @@ We have our brand assets, blog posts and other resouces.
 ## So what should I do  here?
 Depends on who you are! 
 
-- If you are a developer, maybe check out [How was it made?](https://github.com/renderzone/renderzone/wiki/how-was-it-made)
-- If you like writing (I don't)  maybe you can contribute a post to our [Blog repositry](https://github.com/renderzone/blog), and we will post it
-- If you need our branding assets, [I mean they're right here](https://github.com/renderzone/branding).
+- If you are a developer, maybe check out [How was it made?](https://github.com/renderzonegh/renderzone/wiki/how-was-it-made)
+- If you like writing (I don't)  maybe you can contribute a post to our [Blog repositry](https://github.com/renderzonegh/blog), and we will post it
+- If you need our branding assets, [I mean they're right here](https://github.com/renderzonegh/branding).
 - If you're a random person, you could just look arround I guess. 
