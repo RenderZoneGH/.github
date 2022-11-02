@@ -1,3 +1,4 @@
+![RenderZone Banner](https://raw.githubusercontent.com/RenderZoneGH/.github/main/profile/RenderZone%20GitHubRzone%20GH%20Banner.png)
 # 🙋Hi! Welcome to the RenderZone GitHub orgaization. 
 RenderZone is a free animted grahpics generator that works online. It is easy to use and very intuitive. 
 
